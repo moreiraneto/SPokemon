@@ -1,8 +1,8 @@
 # SPokemon
 
-Implementation description
+# Implementation description
 
-This solution was implemented with a clean-swift architecture pattern.
+This solution was implemented with a clean-swift design pattern.
 
 # Image loading and caching
 
