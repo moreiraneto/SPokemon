@@ -1,0 +1,54 @@
+[
+    {
+        "themeName": "light",
+        "colors": [
+            {
+                "name": "background",
+                "hex": "fafafa"
+            },
+            {
+                "name": "surface",
+                "hex": "656565"
+            },
+            {
+                "name": "primary",
+                "hex": "000000"
+            },
+            {
+              "name": "onSurface1",
+              "hex": "111111"
+            },
+            {
+              "name": "onSurface2",
+              "hex": "545454",
+              "alpha": 0.95
+            },
+        ]
+    },
+    {
+        "themeName": "dark",
+        "colors": [
+            {
+                "name": "background",
+                "hex": "000000"
+            },
+            {
+                "name": "surface",
+                "hex": "656565"
+            },
+            {
+                "name": "primary",
+                "hex": "ffffff"
+            },
+            {
+              "name": "onSurface1",
+              "hex": "fafafa"
+            },
+            {
+              "name": "onSurface2",
+              "hex": "ffffff",
+              "alpha": 0.95
+            },
+        ]
+    }
+]

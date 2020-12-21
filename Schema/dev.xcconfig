@@ -1,0 +1,12 @@
+//
+//  dev.xcconfig
+//  SPokemon
+//
+//  Created by José Moreira on 20/12/2020.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_BASE_PATH = https:/$()/pokeapi.co/api/v2/
+TARGET_ENVIRONMENT = Dev

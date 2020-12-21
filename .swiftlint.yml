@@ -1,0 +1,59 @@
+
+excluded:
+    - Pods
+    - UIComponents
+    - Data
+    - R.generated.swift
+
+file_length:
+    - 500 # warning
+    - 800 # error
+
+type_body_length:
+    - 500 # warning
+    - 600 # error
+
+force_try:
+    warning
+
+force_cast:
+    warning
+
+line_length:
+    warning: 170
+    ignores_comments: true
+
+nesting:
+    type_level:
+        warning: 2
+
+type_name:
+    max_length: 60
+    excluded:
+        - iPhone
+        - i9
+
+identifier_name:
+    max_length: 60
+    excluded:
+        - iPhone
+        - i9
+        - id
+        - op
+        - URL
+        - iv
+        - ok
+        - to
+        - me
+        - x
+        - y
+        - w
+        - h
+
+function_parameter_count: 10
+
+disabled_rules:
+    - excluded
+    - todo
+    - valid_ibinspectable
+    - identifier_name
